@@ -1,0 +1,115 @@
+
+
+#arriba{
+    background-color:rgb(217, 217, 231) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+}
+table{
+    width: 75%;
+    border: 1px solid black;
+    margin-left: 150px;
+    margin-right: 70px;
+    margin-top: 15px;
+    background-color: blanchedalmond;
+   
+}
+span{
+    font-variant: small-caps;
+    font-size: large
+}
+li{
+    font-size: large;
+
+}
+
+.formulario{
+    font-variant: small-caps;
+    font-size: large;
+    border-style: solid;
+    margin-top:5%;
+    margin-left: 40%;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid rgb(43, 19, 19);
+    border-radius: 1em;
+    
+    
+}
+
+.button{
+    color: #0099CC; 
+      background: transparent; 
+      border: 2px solid #0099CC; 
+      border-radius: 70px; 
+      text-decoration: none;
+      text-transform: uppercase; 
+      border: none;
+      color: black;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: block;
+      font-size: 16px;
+      margin: 4px 2px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.4s;
+      cursor: pointer;
+    
+      
+}
+h2{
+    background-color: rgb(233, 253, 253);
+    text-align: center;
+   
+}
+
+#contenedor{
+    width: 968px;
+}
+#boton{
+   margin-left: 40%;
+    width:20%; 
+    height:50%;
+}
+p{
+    text-align: center;
+
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+img{
+    width: 70%;
+    margin-left: 100px;
+}
+.ver{
+    border: solid;
+    border-style: double;
+    border-radius: 1em;
+    border-color: black;
+    width: 50%;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 5%;
+
+}
+body{
+    background-image:url(../imagenes/fondo2.jpg);
+    image-resolution: 50;
+
+
+}
